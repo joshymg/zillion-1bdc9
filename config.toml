@@ -8,7 +8,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [params]
-logo = "images/logo.png"
+logo = "images/LOGO horizontal.png"
 author = "Themefisher"
 description = "This is meta description"
 google_analitycs_id = "Your ID"
