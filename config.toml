@@ -13,7 +13,7 @@ author = "Themefisher"
 description = "This is meta description"
 google_analitycs_id = "Your ID"
 main_sections = [ "post" ]
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Designed & Developed by [Techwork Professionals](https://techworkpro.com)"
 
 [[params.plugins.css]]
 URL = "css/bootstrap.min.css"
@@ -61,24 +61,24 @@ URL = "js/main.js"
   [params.footer]
   enable = true
   contactInfoTitle = "CONTACT <span>INFO</span> "
-  blogTitle = "LATEST <span>BLOG POSTS</span>"
+  blogTitle = "LATEST <span>Items</span>"
   galleryTitle = "PHOTO <span>STREAM</span>"
   socialTitle = "Follow <span>US</span>"
 
     [[params.footer.contactItem]]
     title = "Telephone"
     icon = "fa fa-phone"
-    content = "016742 323313"
+    content = "+852 5260 8484"
 
     [[params.footer.contactItem]]
     title = "Address"
     icon = "fa fa-map-marker"
-    content = "2046 Blue Spruce Lane Laurel Canada"
+    content = "Shop 128 A3, 1/F., Kings Wing Plaza - 2, 1 On Kwan Rd., Shek Mun, Shatin, N.T., Hong Kong"
 
     [[params.footer.contactItem]]
     title = "E mail"
     icon = "fa fa-envelope"
-    content = "rest@gmail.com - rest@mail.ru"
+    content = "info@zillionflavours.com"
 
     [[params.footer.gallery]]
     image = "images/slider/slider-img-1.jpg"
