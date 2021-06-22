@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Restaurant Hugo"
+title = "Zillion Flavours"
 theme = "restaurant hugo"
 summaryLength = "10"
 paginate = 4
