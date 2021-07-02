@@ -22,9 +22,9 @@ gallery:
 about:
   enable : true
   image : "images/cooker-img.png"
-  title : "Featured Your <span> Restaurant’s</span> Website Has To Look Good"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
-  
+  title : "Authentic Indian food outlets in Hong Kong. Yum 'n Good"
+  description : "  Zillion Flavours ... Indian food outlets in Hong Kong. Authentic tastes created with fresh herbs and spices from the land of spices, Kerala, India. "
+
 ################# Blog ######################
 blog:
   enable : true

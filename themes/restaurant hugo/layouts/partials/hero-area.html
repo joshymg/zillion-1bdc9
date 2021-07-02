@@ -1,7 +1,9 @@
 {{ "<!-- header-img start  -->" | safeHTML }}
 {{ if site.Data.homepage.hero_area.enable }}
 {{ with site.Data.homepage.hero_area }}
-<section id="hero-area" {{ if .overlay }} class="overlay" {{ end }}>
+<section id="hero-area" {{ if .overlay }} class="overlay" {{ end }}>  
+  <span class="auto-mx blog" >Zillion Flavours ... Indian food outlets in Hong Kong. Authentic tastes created with fresh herbs and spices from the land of spices, Kerala, India. </span>
+
   <img class="img-responsive" src="{{ .bg_image | absURL }}">
 </section>
 {{ end }}
