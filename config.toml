@@ -81,38 +81,38 @@ URL = "js/main.js"
     content = "info@zillionflavours.com"
 
     [[params.footer.gallery]]
-    image = "images/slider/slider-img-1.jpg"
+    image = "images/slider/idli sambar.jpg"
 
     [[params.footer.gallery]]
-    image = "images/slider/slider-img-2.jpg"
+    image = "images/slider/naan butter ckn.jpg"
 
     [[params.footer.gallery]]
-    image = "images/slider/slider-img-3.jpg"
+    image = "images/slider/pathiri egg.jpg"
 
     [[params.footer.gallery]]
-    image = "images/slider/slider-img-4.jpg"
+    image = "images/slider/porotta beef.jpg"
 
     [[params.footer.gallery]]
-    image = "images/slider/slider-img-1.jpg"
+    image = "images/slider/porotta mutton.jpg"
 
     [[params.footer.gallery]]
-    image = "images/slider/slider-img-2.jpg"
+    image = "images/slider/stringhpr veg korma.jpg"
 
     [[params.footer.socialLink]]
     icon = "facebook"
-    link = "https://fb.com/themefisher"
+    link = "https://fb.com/shopzillionflavours"
 
-    [[params.footer.socialLink]]
-    icon = "twitter"
-    link = "https://fb.com/themefisher"
+    # [[params.footer.socialLink]]
+    # icon = "twitter"
+    # link = "https://fb.com/themefisher"
 
-    [[params.footer.socialLink]]
-    icon = "dribbble"
-    link = "https://fb.com/themefisher"
+    # [[params.footer.socialLink]]
+    # icon = "dribbble"
+    # link = "https://fb.com/themefisher"
 
     [[params.footer.socialLink]]
     icon = "instagram"
-    link = "https://fb.com/themefisher"
+    link = "https://www.instagram.com/zillionflavoursonline/"
 
 [[menu.main]]
 name = "Home"
