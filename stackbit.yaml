@@ -7,4 +7,4 @@ assets:
   referenceType: static
   staticDir: static
   uploadDir: assets
-  publicPath: 
+  publicPath: https://
