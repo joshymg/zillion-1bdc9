@@ -7,7 +7,7 @@ hero_area:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "FEATURED WORKS"
+  title : "Zillion Flavours highlights"
   images:
     - "images/slider/slider-img-1.jpg"
     - "images/slider/slider-img-2.jpg"
