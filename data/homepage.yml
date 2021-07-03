@@ -9,14 +9,25 @@ gallery:
   enable : true
   title : "Zillion Flavours highlights"
   images:
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
-    - "images/slider/slider-img-1.jpg"
-    - "images/slider/slider-img-2.jpg"
-    - "images/slider/slider-img-3.jpg"
-    - "images/slider/slider-img-4.jpg"
+    - "images/slider/pathiri-egg.jpg"
+    - "images/slider/rice-ckn-curry.jpg"
+    - "images/slider/pathiri-beef.jpg"
+    - "images/slider/pathiri-ckn-curry.jpg"
+    - "images/slider/porotta-beef.jpg"
+    - "images/slider/porotta-mutton.jpg"
+    - "images/slider/porotta-peasmasala.jpg"
+    - "images/slider/stinghpr-butter-ckn.jpg"
+    - "images/slider/idli-sambar.jpg"
+    - "images/slider/rice-veg-korma.jpg"
+    - "images/slider/stinghpr-egg.jpg"
+    - "images/slider/stringhpr-veg-korma.jpg"
+    - "images/slider/naan-butter-ckn.jpg"
+    - "images/slider/rice-peas.jpg"
+    - "images/slider/stringhpr-mutton.jpg"
+    - "images/slider/stringhpr-peas.jpg"
+    - "images/slider/vada-sambar.jpg"
+    - "images/slider/naan-egg.jpg"
+    - "images/slider/mutton-biryani.jpg"
 
 ################ About #######################
 about:
