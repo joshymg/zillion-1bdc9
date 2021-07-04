@@ -162,6 +162,7 @@ models:
             - faq_section
             - bulletpoints_section
             - contact_section
+            - menu_gallery
   advanced:
     type: page
     label: Advanced Page
