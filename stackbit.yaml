@@ -162,6 +162,7 @@ models:
             - faq_section
             - bulletpoints_section
             - contact_section
+            - menu_gallery
   advanced:
     type: page
     label: Advanced Page
@@ -553,14 +554,11 @@ models:
         label: CTA Arrow
   menu_gallery:
     type: object
-    label: menu_gallery
+    label: menu gallery
     fields:
-      - name: meu-item-title
+      - name: item_title
         type: text
-        label: title
-        description: ' '
-        default: ' '
-        const: ' '
+        label: Item title
       - name: grid
         type: list
         items:
