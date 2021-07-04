@@ -16,4 +16,4 @@ models:
     label: menu_gallery
     fields:
       - name: Title
-        type: string
+        type: text
