@@ -6,7 +6,7 @@ description: this is meta description
 type: post
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Curry
     headline: lorem-ipsum
     subtitle: >-
       ## Lorem ipsum
