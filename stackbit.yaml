@@ -21,3 +21,5 @@ models:
         description: ' '
         default: ' '
         const: ' '
+      - name: ''
+        type: string
