@@ -553,7 +553,7 @@ models:
         label: CTA Arrow
   menu_gallery:
     type: object
-    label: menu_gallery
+    label: menu gallery
     fields:
       - name: menu-item-title
         type: text
