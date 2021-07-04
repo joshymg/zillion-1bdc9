@@ -125,48 +125,48 @@ models:
         label: Exclude
         description: Exclude directories and/or files from the conversion.
         hidden: true
-  palette:
-    type: object
-    label: Palette
-    fields:
-      - type: object
-        name: sass
-        label: SASS
-        fields:
-          - type: string
-            label: Default light
-            name: default
-          - type: string
-            label: Light
-            name: light
-          - type: string
-            label: Medium
-            name: medium
-          - type: string
-            label: Dark
-            name: dark
-          - type: string
-            label: Active
-            name: active
-          - type: string
-            label: Active light
-            name: active_light
-          - type: string
-            label: Active medium
-            name: active_medium
-          - type: string
-            label: Active dark
-            name: active_dark
-          - type: string
-            label: Dark grey
-            name: dark_grey
-          - type: string
-            label: Light grey
-            name: light_grey
-          - type: image
-            name: bg_image_cart
-            label: Cart Backround Image
-            description: Cart Backround Image (JPG or PNG)
+  # palette:
+  #   type: object
+  #   label: Palette
+  #   fields:
+  #     - type: object
+  #       name: sass
+  #       label: SASS
+  #       fields:
+  #         - type: string
+  #           label: Default light
+  #           name: default
+  #         - type: string
+  #           label: Light
+  #           name: light
+  #         - type: string
+  #           label: Medium
+  #           name: medium
+  #         - type: string
+  #           label: Dark
+  #           name: dark
+  #         - type: string
+  #           label: Active
+  #           name: active
+  #         - type: string
+  #           label: Active light
+  #           name: active_light
+  #         - type: string
+  #           label: Active medium
+  #           name: active_medium
+  #         - type: string
+  #           label: Active dark
+  #           name: active_dark
+  #         - type: string
+  #           label: Dark grey
+  #           name: dark_grey
+  #         - type: string
+  #           label: Light grey
+  #           name: light_grey
+  #         - type: image
+  #           name: bg_image_cart
+  #           label: Cart Backround Image
+  #           description: Cart Backround Image (JPG or PNG)
   home:
     type: page
     label: Home

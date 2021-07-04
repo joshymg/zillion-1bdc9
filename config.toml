@@ -11,7 +11,7 @@ footer_text = "Footer from stackbit"
 [params]
 logo = "images/LOGO horizontal.png"
 author = "Themefisher"
-description = "This is meta description"
+description = "Indian food outlet in Shek Mun, Shatin, Hong Kong. Best Biryani, Indian Curries, Porotta, Idly, Idiyappam, Samosas, an Cutlets in Hong Kong. "
 google_analitycs_id = "Your ID"
 main_sections = [ "post" ]
 copyright = "Copyright &copy; 2021 Designed & Developed by [Techwork Professionals](https://techworkpro.com)"
