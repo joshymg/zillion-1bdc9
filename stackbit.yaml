@@ -26,6 +26,3 @@ models:
         items:
           type: image
         label: items
-      - name: item name
-        type: string
-        label: item_name
