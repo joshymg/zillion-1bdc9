@@ -10,9 +10,6 @@ assets:
   staticDir: static
   uploadDir: assets
   publicPath: /
-#
-#
-#
 models:
   config:
     type: config
@@ -31,8 +28,8 @@ models:
       - type: string
         name: permalink
         label: Permalink
-        description: 'The output path for your pages, posts, or collections.'
-        default: '/posts/:slug:output_ext'
+        description: The output path for your pages, posts, or collections.
+        default: /posts/:slug:output_ext
         hidden: true
       - type: string
         label: Snipcart public API key
@@ -120,53 +117,15 @@ models:
         name: plugins
         label: Plugins
         hidden: true
+        items:
+          type: string
       - type: list
         name: exclude
         label: Exclude
         description: Exclude directories and/or files from the conversion.
         hidden: true
-  # palette:
-  #   type: object
-  #   label: Palette
-  #   fields:
-  #     - type: object
-  #       name: sass
-  #       label: SASS
-  #       fields:
-  #         - type: string
-  #           label: Default light
-  #           name: default
-  #         - type: string
-  #           label: Light
-  #           name: light
-  #         - type: string
-  #           label: Medium
-  #           name: medium
-  #         - type: string
-  #           label: Dark
-  #           name: dark
-  #         - type: string
-  #           label: Active
-  #           name: active
-  #         - type: string
-  #           label: Active light
-  #           name: active_light
-  #         - type: string
-  #           label: Active medium
-  #           name: active_medium
-  #         - type: string
-  #           label: Active dark
-  #           name: active_dark
-  #         - type: string
-  #           label: Dark grey
-  #           name: dark_grey
-  #         - type: string
-  #           label: Light grey
-  #           name: light_grey
-  #         - type: image
-  #           name: bg_image_cart
-  #           label: Cart Backround Image
-  #           description: Cart Backround Image (JPG or PNG)
+        items:
+          type: string
   home:
     type: page
     label: Home
@@ -174,7 +133,35 @@ models:
     hideContent: true
     file: index.md
     singleInstance: true
-    extends: advancedPageFields
+    fields:
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
+      - type: string
+        name: page_css_class
+        label: Page CSS class
+      - type: boolean
+        label: White header
+        name: white_header
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          models:
+            - hero_section
+            - header_section
+            - featured_products_section
+            - featured_categories_section
+            - testimonials_section
+            - promotion_section
+            - store_section
+            - faq_section
+            - bulletpoints_section
+            - contact_section
   advanced:
     type: page
     label: Advanced Page
@@ -183,7 +170,35 @@ models:
     exclude:
       - store.md
       - index.md
-    extends: advancedPageFields
+    fields:
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
+      - type: string
+        name: page_css_class
+        label: Page CSS class
+      - type: boolean
+        label: White header
+        name: white_header
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          models:
+            - hero_section
+            - header_section
+            - featured_products_section
+            - featured_categories_section
+            - testimonials_section
+            - promotion_section
+            - store_section
+            - faq_section
+            - bulletpoints_section
+            - contact_section
   store:
     type: page
     label: Store
@@ -191,7 +206,35 @@ models:
     file: store.md
     singleInstance: true
     hideContent: true
-    extends: advancedPageFields
+    fields:
+      - type: string
+        label: Title
+        name: title
+        description: The title of the page
+        required: true
+      - type: string
+        name: page_css_class
+        label: Page CSS class
+      - type: boolean
+        label: White header
+        name: white_header
+      - type: list
+        name: sections
+        label: Sections
+        description: Page sections
+        items:
+          type: model
+          models:
+            - hero_section
+            - header_section
+            - featured_products_section
+            - featured_categories_section
+            - testimonials_section
+            - promotion_section
+            - store_section
+            - faq_section
+            - bulletpoints_section
+            - contact_section
   advancedPageFields:
     type: object
     fields:
@@ -229,7 +272,7 @@ models:
     hideContent: true
     layout: category
     folder: category
-    urlPath: 'category/{slug}'
+    urlPath: category/{slug}
     fields:
       - type: string
         name: title
@@ -450,7 +493,7 @@ models:
     type: page
     label: Product
     layout: product
-    urlPath: 'products/{slug}'
+    urlPath: products/{slug}
     folder: products
     fields:
       - type: string
@@ -508,14 +551,11 @@ models:
       - type: boolean
         name: arrow
         label: CTA Arrow
-#
-#
-#models:
   menu_gallery:
     type: object
     label: menu_gallery
     fields:
-      - name: Title
+      - name: meu-item-title
         type: text
         label: title
         description: ' '
