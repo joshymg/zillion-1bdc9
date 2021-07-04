@@ -22,4 +22,6 @@ models:
         default: ' '
         const: ' '
       - name: grid
-        type: string
+        type: list
+        items:
+          type: string
