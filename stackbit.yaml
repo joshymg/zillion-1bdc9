@@ -556,7 +556,7 @@ models:
     label: menu_gallery
     fields:
       - name: menu-item-title
-        type: text
+        type: string
         label: menu item title
         description: ' '
         default: ' '
