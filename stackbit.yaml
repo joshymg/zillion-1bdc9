@@ -21,11 +21,11 @@ models:
         description: ' '
         default: ' '
         const: ' '
+      - name: item name
+        type: string
+        label: item_name
       - name: grid
         type: list
         items:
           type: image
         label: items
-      - name: item name
-        type: string
-        label: item_name
