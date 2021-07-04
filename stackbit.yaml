@@ -24,5 +24,5 @@ models:
       - name: grid
         type: list
         items:
-          type: string
+          type: image
         label: items
