@@ -560,3 +560,5 @@ models:
         items:
           type: image
         label: items
+      - name: ''
+        type: string
