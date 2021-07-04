@@ -16,7 +16,7 @@ sections:
       Goes great with Porotta/ Naan/ Pathiri/ Idiyappam/ Idly/ Rice. 
     type: header_section
     background_image: /images/slider/pathiri ckn curry.jpg
-  - section_id: lorem-ipsum
+  - section_id: Curry Promo
     title: lorem-ipsum
     subtitle: lorem-ipsum
     cta:
