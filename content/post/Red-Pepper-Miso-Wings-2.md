@@ -7,7 +7,7 @@ type: post
 white_header: false
 sections:
   - section_id: Curry
-    headline: lorem-ipsum
+    headline: 'Original Malabar Chicken '
     subtitle: >-
       ## Lorem ipsum
 
