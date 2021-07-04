@@ -555,9 +555,9 @@ models:
     type: object
     label: menu_gallery
     fields:
-      - name: meu-item-title
+      - name: menu-item-title
         type: text
-        label: title
+        label: menu item title
         description: ' '
         default: ' '
         const: ' '
