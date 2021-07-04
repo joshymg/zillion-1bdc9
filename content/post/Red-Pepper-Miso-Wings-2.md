@@ -7,7 +7,7 @@ type: post
 white_header: false
 sections:
   - section_id: Curry
-    headline: 'Original Malabar Chicken Curry , with thick gravy'
+    headline: 'Original Malabar Chicken Curry , with roasted coconut thick gravy'
     subtitle: >-
       ## Lorem ipsum
 
