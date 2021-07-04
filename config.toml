@@ -6,6 +6,7 @@ summaryLength = "10"
 paginate = 4
 themesDir = "themes"
 publishDir = "public"
+footer_text = "Footer"
 
 [params]
 logo = "images/LOGO horizontal.png"
@@ -101,14 +102,6 @@ URL = "js/main.js"
     [[params.footer.socialLink]]
     icon = "facebook"
     link = "https://fb.com/shopzillionflavours"
-
-    # [[params.footer.socialLink]]
-    # icon = "twitter"
-    # link = "https://fb.com/themefisher"
-
-    # [[params.footer.socialLink]]
-    # icon = "dribbble"
-    # link = "https://fb.com/themefisher"
 
     [[params.footer.socialLink]]
     icon = "instagram"
