@@ -555,11 +555,11 @@ models:
     type: object
     label: menu gallery
     fields:
+      - name: item_title
+        type: text
+        label: Item title
       - name: grid
         type: list
         items:
           type: image
         label: items
-      - name: item_title
-        type: text
-        label: Item title
