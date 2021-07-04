@@ -19,3 +19,4 @@ models:
         type: text
         label: title
         description: ' '
+        default: ' '
