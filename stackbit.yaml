@@ -561,4 +561,4 @@ models:
           type: image
         label: items
       - name: item_title
-        type: string
+        type: text
