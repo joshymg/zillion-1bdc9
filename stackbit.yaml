@@ -562,3 +562,4 @@ models:
         label: items
       - name: item_title
         type: text
+        label: Item title
