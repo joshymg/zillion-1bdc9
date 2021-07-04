@@ -18,3 +18,4 @@ models:
       - name: Title
         type: text
         label: title
+        description: ' '
