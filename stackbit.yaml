@@ -555,12 +555,6 @@ models:
     type: object
     label: menu gallery
     fields:
-      - name: menu-item-title
-        type: text
-        label: menu item title
-        description: ' '
-        default: ' '
-        const: ' '
       - name: grid
         type: list
         items:
