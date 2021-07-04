@@ -560,5 +560,5 @@ models:
         items:
           type: image
         label: items
-      - name: ''
+      - name: item_title
         type: string
