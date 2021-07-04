@@ -8,17 +8,12 @@ white_header: false
 sections:
   - section_id: Curry
     headline: 'Original Malabar Chicken Curry , with roasted coconut thick gravy.'
-    subtitle: >-
-      ## Lorem ipsum
+    subtitle: |
+      ##
 
+      ## Authentic South Indian Chicken Curry
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Goes great with Porotta/ Naan/ Pathiri/ Idiyappam/ Idly/ Rice. 
     type: header_section
     background_image: /images/slider/pathiri ckn curry.jpg
 ---
