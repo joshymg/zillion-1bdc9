@@ -7,7 +7,7 @@ type: post
 white_header: false
 sections:
   - section_id: Curry
-    headline: 'Original Malabar Chicken '
+    headline: 'Original Malabar Chicken Curry , with This'
     subtitle: >-
       ## Lorem ipsum
 
