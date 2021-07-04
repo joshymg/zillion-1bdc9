@@ -15,5 +15,5 @@ models:
     type: object
     label: menu_gallery
     fields:
-      - name: ''
+      - name: Title
         type: string
