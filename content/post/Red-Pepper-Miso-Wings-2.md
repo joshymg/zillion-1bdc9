@@ -20,4 +20,5 @@ sections:
 
       - dolor sit amet
     type: header_section
+    background_image: /images/slider/pathiri ckn curry.jpg
 ---
