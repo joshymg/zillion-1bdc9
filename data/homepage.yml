@@ -87,4 +87,4 @@ contact:
   enable : true
   title: " <span> Contact Us </span>"
   subtitle: "Enquire about custom menu and party orders"
-  form_action : "#" #contact form works with formspree.io
+  form_action : "https://formspree.io/f/xrgrljpp" #contact form works with formspree.io
