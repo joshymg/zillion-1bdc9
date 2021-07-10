@@ -39,7 +39,7 @@ about:
 ################# Blog ######################
 blog:
   enable : true
-  title : "Our Latest <span>Blog</span>"
+  title : "Our Signature dishes"
   bg_image : "images/blog/blog-bg.jpg"
   overlay : true
 
@@ -47,7 +47,7 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Our Easy <span>PRICE</span>"
+  title : "Our MENU"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
   pricing_item:
