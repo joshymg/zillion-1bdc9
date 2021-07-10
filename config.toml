@@ -62,7 +62,7 @@ URL = "js/main.js"
   [params.footer]
   enable = true
   contactInfoTitle = "CONTACT <span>INFO</span> "
-  blogTitle = "LATEST <span>Items</span>"
+  blogTitle = "LATEST <span>ITEMS</span>"
   galleryTitle = "PHOTO <span>STREAM</span>"
   socialTitle = "Follow <span>US</span>"
 
