@@ -1,5 +1,5 @@
 ---
-title: "Butter Chicken"
+title: "Butter Chicken 2"
 date: 2018-12-26T11:40:41+06:00
 image: "images/slider/pathiri butter ckn.jpg"
 description: "butter chicken"
