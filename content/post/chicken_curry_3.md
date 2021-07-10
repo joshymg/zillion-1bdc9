@@ -1,5 +1,5 @@
 ---
-title: Chicken Curry
+title: Chicken Curry 3
 date: '2018-12-26T12:30:01+06:00'
 image: images/slider/naan ckn curry.jpg
 description: this is meta description
