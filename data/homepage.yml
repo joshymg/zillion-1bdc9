@@ -7,27 +7,28 @@ hero_area:
 ################### Gallery ###################
 gallery:
   enable : true
-  title : "Zillion Flavours highlights"
+  title : "Yummy highlights"
   images:
-    - "images/slider/pathiri egg.jpg"
-    - "images/slider/rice ckn curry.jpg"
-    - "images/slider/pathiri beef.jpg"
-    - "images/slider/pathiri ckn curry.jpg"
-    - "images/slider/porotta beef.jpg"
-    - "images/slider/porotta mutton.jpg"
-    - "images/slider/porotta peasmasala.jpg"
-    - "images/slider/stinghpr butter ckn.jpg"
-    - "images/slider/idli sambar.jpg"
-    - "images/slider/rice veg korma.jpg"
-    - "images/slider/stinghpr egg.jpg"
-    - "images/slider/stringhpr veg korma.jpg"
-    - "images/slider/naan butter ckn.jpg"
-    - "images/slider/rice peas.jpg"
-    - "images/slider/stringhpr mutton.jpg"
-    - "images/slider/stringhpr peas.jpg"
-    - "images/slider/vada sambar.jpg"
-    - "images/slider/naan egg.jpg"
-    - "images/slider/mutton biryani.jpg"
+    - {image: "images/slider/pathiri egg.jpg", label: Egg Masala  Pathiri }
+    - {image: "images/slider/rice ckn curry.jpg", label: Chicken Curry  Rice}
+    - {image: "images/slider/pathiri beef.jpg", label: Beef Masala  Pathiri}
+    - {image: "images/slider/pathiri ckn curry.jpg", label: Chicken Curry  Pathiri}
+    - {image: "images/slider/porotta beef.jpg", label:  Beef Masala    Porotta   }
+    - {image: "images/slider/porotta mutton.jpg", label: Mutton Korma   Porotta  }
+    - {image: "images/slider/porotta peasmasala.jpg", label: Peas Masala  Porotta  }
+    - {image: "images/slider/stinghpr butter ckn.jpg", label: Butter Chicken   Idiyappam}
+    - {image: "images/slider/idli sambar.jpg", label: Idly Sambaar }
+    - {image: "images/slider/rice veg korma.jpg", label: Veg. Korma  Rice }
+    - {image: "images/slider/stinghpr egg.jpg", label: Egg Masala  Idiyappam }
+    - {image: "images/slider/stringhpr veg korma.jpg", label: Veg. Korma  Idiyappam}
+    - {image: "images/slider/naan butter ckn.jpg", label: Butter Chicken  Naan }
+    - {image: "images/slider/rice peas.jpg", label: Peas Masala  Rice}
+    - {image: "images/slider/stringhpr mutton.jpg", label: Mutton Korma Idiyappam }
+    - {image: "images/slider/stringhpr peas.jpg", label: Peas Masala  Idiyappam }
+    - {image: "images/slider/vada sambar.jpg", label: Vada Sambaar }
+    - {image: "images/slider/naan egg.jpg", label: Egg Masala  Naan }
+    - {image: "images/slider/mutton biryani.jpg", label: Mutton Biryani }
+  
 
 ################ About #######################
 about:
@@ -47,7 +48,7 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Our MENU"
+  title : "Our <span>MENU </span>"
   description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
   subtitle : "FEATURED ON THE WEEK"
   pricing_item:
