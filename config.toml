@@ -6,7 +6,7 @@ summaryLength = "10"
 paginate = 4
 themesDir = "themes"
 publishDir = "public"
-footer_text = "Footer from stackbit"
+footer_text = " "
 
 [params]
 logo = "images/LOGO horizontal.png"
